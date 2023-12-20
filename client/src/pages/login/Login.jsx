@@ -27,7 +27,7 @@ const Login = () => {
     }
   };
 
-  console.log(inputs)
+
 
   return (
     <div className="login">
